@@ -1,2 +1,3 @@
 - 20210223
 	- C++ programming on Linux - from performance point of view compare different way of defining array
+	- https://www.youtube.com/watch?v=2Vtlu4YiaZI&t=5s
