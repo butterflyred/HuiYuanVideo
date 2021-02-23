@@ -1,0 +1,20 @@
+{
+    "glossary": {
+        "title": "example glossary",
+        "GlosssDiv": {
+            "title": "S"
+        },
+        "GlossDiv": {
+            "title": "S"
+        }
+    },
+    "GlossList": {
+        "GlossEntry": {
+            "ID": "SGML",
+            "SortAs": "SGML",
+            "GlossTerm": "Standard Generalized Markup Language",
+            "GlossSee": "markup"
+        }
+    },
+    "name":"IAN"
+}

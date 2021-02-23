@@ -1,2 +1,2 @@
-# programmingc++
-[url](https://www.youtube.com/watch?v=lTYqvBKImak&list=PLkEldc5soqvQw6fwuxtaQwNxG_j_09spU)
+# programming
+[youtube video](https://www.youtube.com/channel/UCvKHHdE4I-JWF5gjMjPkGWQ)

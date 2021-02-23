@@ -1,0 +1,2 @@
+- 20210223
+	- C++ programming on Linux - from performance point of view compare different way of defining array
