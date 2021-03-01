@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import requests
 import sys
 import json
@@ -19,9 +20,17 @@ def tmp():
 def web_page():
     url = 'https://github.com/butterflyred/HuiYuanVideo'
     r = requests.get(url)
+    hdr = r.headers
     if r.ok :
-        print("request type :" , type(r))
-        print("request status :" , r.status_code)
+        # print("request type :" , type(r))
+        # print("request status :" , r.status_code)
+        # print(help(r))
+        # print(r.text)
+        print("header type :" , type(hdr))
+        for x in hdr:
+            o_str= "%s \t \t -> %s " % (x,hdr[x])
+            print(o_str)
+
         
 if __name__ == "__main__":
     web_page()
