@@ -5,3 +5,6 @@
 - 20210227-0302
 	- Python Scripting on Linux - Making HTTP Get Request
 	- https://www.youtube.com/watch?v=seWfqutDHUI
+- 20210302
+    - C++ Programming on Linux - POSIX Message Queue Example
+    - https://www.youtube.com/watch?v=xNUdIveEQxI
